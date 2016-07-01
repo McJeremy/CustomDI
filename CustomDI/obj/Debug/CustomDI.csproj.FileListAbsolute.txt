@@ -1,0 +1,6 @@
+F:\test\netcore\CustomDI\CustomDI\bin\Debug\CustomDI.exe.config
+F:\test\netcore\CustomDI\CustomDI\bin\Debug\CustomDI.exe
+F:\test\netcore\CustomDI\CustomDI\bin\Debug\CustomDI.pdb
+F:\test\netcore\CustomDI\CustomDI\obj\Debug\CustomDI.csprojResolveAssemblyReference.cache
+F:\test\netcore\CustomDI\CustomDI\obj\Debug\CustomDI.exe
+F:\test\netcore\CustomDI\CustomDI\obj\Debug\CustomDI.pdb
